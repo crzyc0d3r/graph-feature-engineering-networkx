@@ -1,4 +1,4 @@
-# 6 Graph Feature Engineering Techniques (NetworkX)
+# Graph Feature Engineering Techniques (NetworkX)
 
 Like images, text, and tabular data, graph datasets have features that can be engineered to boost model performance. This project builds a dummy social graph (`accounts` + `followers` tables converted to a directed `networkx` graph) and computes six must-know features per node:
 
