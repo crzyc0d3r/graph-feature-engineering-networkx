@@ -1,9 +1,5 @@
 """6 graph feature engineering techniques with NetworkX.
 
-Recreated from the Daily Dose of Data Science newsletter
-"[Hands-on] How to Build Your Own AI Company" (Graph ML section),
-received 2026-07-01. https://www.dailydoseofds.com
-
 Techniques:
   1-3) In-degree, out-degree, total degree
   4)   Betweenness centrality
